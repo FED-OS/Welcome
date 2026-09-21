@@ -434,15 +434,14 @@ custom:
 
 <img width="600" height="600" alt="Rainbow mug" src="https://github.com/user-attachments/assets/9cac783d-35a9-4ad9-9207-30e9d1d8bd9f" />
 
+![Auto Assign](https://github.com/Fedpromptly/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/Fedpromptly/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,20,30&height=100&section=footer&animation=twinkling"/>
 
 
 </div>
-
-
-![Auto Assign](https://github.com/Fedpromptly/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
-
-![Proof HTML](https://github.com/Fedpromptly/demo-repository/actions/workflows/proof-html.yml/badge.svg)
 
 
 
